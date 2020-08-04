@@ -6,9 +6,9 @@ WEBSCRAPING:
 
 Here I used BeautifulSoup library for Scraping
 I scraped data from the below html pages,
-'https://inshorts.com/en/read/technology',
-'https://inshorts.com/en/read/sports',
-'https://inshorts.com/en/read/world'
+'https://inshorts.com/en/read/technology.html',
+'https://inshorts.com/en/read/sports.html',
+'https://inshorts.com/en/read/world.html'
 
 PREPROCESSING:
 
