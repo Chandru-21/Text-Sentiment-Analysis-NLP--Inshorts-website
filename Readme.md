@@ -25,7 +25,7 @@ Removing unwanted characters using RE -eg removing emoticons,url,html tags etc..
 
 UNSUPERVISED LEARNING:
 
-Using affin,vader,textblob predicting the sentiment of the headline whether its Postive Sentiment or Negative Sentiment
+Using affin,vader,textblob predicting the sentiment of the headline,whether they are of Postive Sentiment or Negative Sentiment
 
 SUPERVISED LEARNING:
 
